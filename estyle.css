@@ -1,0 +1,109 @@
+header {
+    background-color: #bbbbbb;
+    padding: 20px 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 220;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #c78c19;
+    text-decoration: underline;
+}
+
+.cajaNav {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+.tituloPrincipal {
+    padding-left: 30px;;
+}
+
+.principal {
+    background-color: #cccccc;
+    padding: 20px;
+}
+
+p{
+    text-align: center;
+    background-color: #cccccc;
+}
+
+.tituloCentral{
+    text-align: center;
+    background-color: #cccccc;
+    border: 10px  solid #000000;
+    padding: 20 px;
+    margin: 40px;
+}
+
+em strong {
+    color: red;
+}
+
+#mision  {
+    font-size: 20px;
+}
+
+#banner {
+    width: 100%;
+}
+
+.diferenciales {
+    background: #ffffff;
+    padding: 30px;
+}
+
+
+
+.items {
+    font-style: italic;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imgDiferencial {
+    width: 50%;
+}
+
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.enviar {
+    width: 40%;
+    padding: 15px 0;;
+}
+
+
+
+.copy {
+    color: #ffffff;
+    font-size: 13px;
+    margin: 20px;
+    background-color: transparent
+}
